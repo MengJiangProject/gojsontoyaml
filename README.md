@@ -1,3 +1,7 @@
+# About this fork
+
+This fork does not change any code but added github actions to build binaries.
+
 # gojsontoyaml
 
 This is a small tool written in go to convert json to yaml reading from STDIN and writing to STDOUT. The heavy lifting is actually done by [ghodss/yaml](https://github.com/ghodss/yaml) and [gopkg.in/yaml.v2](http://gopkg.in/yaml.v2).
